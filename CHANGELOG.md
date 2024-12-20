@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.2.0 - 2024-12-20
+#### Features
+- Adding dependabot and github actions. - (46b9bdc) - Rob Lazzurs
+
+- - -
+
 ## v0.1.0 - 2024-12-20
 #### Chores
 - Add TF lock file to git ignore. - (f9a9e38) - Rob Lazzurs
