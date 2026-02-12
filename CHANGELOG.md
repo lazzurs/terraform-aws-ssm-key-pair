@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.2.1 - 2026-02-12
+#### Bug Fixes
+- **(dependabot)** bump actions/checkout from 4 to 6 - (2d5bd7a) - dependabot[bot]
+
+- - -
+
 ## v0.2.0 - 2024-12-20
 #### Features
 - Adding dependabot and github actions. - (46b9bdc) - Rob Lazzurs
